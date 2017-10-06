@@ -2966,6 +2966,51 @@
 
 .ion-xbox:before {
   content: ""; }
+  
+/**addon*/
+
+.connect, .credentials, .reconnect {
+	background-color: #6e999d;
+	background-image: url ("../img/moodle.png), url("../img/bg_2.png);
+	background-repeat: no-repeat;
+	background-position: top 20px center, top left;
+	background-size: 200px auto, 100%;
+	padding-top: 65px;
+scroll-content: false;}
+.connect .list-inset, .credentials .list-inset, .reconnect .list-inset {
+	/*background-color: transparent;*/
+background-color: rgba(171, 172, 175, 0.4);}
+.connect .item, .credentials .item, .reconnect .list-inset {
+	background-color: rgba(255, 255, 255, 0.4);
+	border-color: rgba(255, 255, 255, 0.3);
+border-bottom-color: rgba(255, 255, 255, 0.1);}
+.connect .item-input, .credentials .item-input, .reconnect .item-input {
+padding-right: 16px;}
+.connect .item-input input, .credentials .item-input input, .reconnect .item-input input {
+	padding-left: 10px;
+padding-right: 16px;}
+.connect .item-stacked-label, .credentials .item-stacked-label, .reconnect .item-stacked-label {
+background-color: rgba(255, 255, 255, 0.4);}
+.connect button, .credentials button, .reconnect button {
+	border-color: #b1cdfb;
+background-color: #dfebff;}
+
+a, mm-format-text a {
+color: #387ef5;
+text-decoration: none; }
+mm-format-text a:hover {
+text-decoration: underline; }
+mm-format-text .button.activated a {
+color: #fff; }
+.bar-header {
+background-color : #275a68;
+box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1); }
+.bar-content .title, .item-divider h2, .item-divider .item .item-heading, .item .item-divider .item-heading, .item-divider p, a.item h2, a.item .item-heading {
+color: #FAFAFA; }
+.tabs .tab-item {
+color: #212630; }
+a.item.item-avatar .item-heading, a.item.item-media .item-heading, a.item.item-media h2, a.item.item-media .item-heading {
+color: #212630; }
 
 /**
  * Resets
