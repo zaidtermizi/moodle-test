@@ -11582,7 +11582,7 @@ angular.module('mm.core.login', [])
         templateUrl: 'core/components/login/templates/credentials.html',
         controller: 'mmLoginCredentialsCtrl',
         params: {
-            siteurl: '',
+            siteurl: 'https://lms.english.com.my',
             username: '',
             urltoopen: '', 
             siteconfig: null
