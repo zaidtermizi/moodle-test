@@ -2967,7 +2967,7 @@
 .ion-xbox:before {
   content: ""; }
   
-/**addon*/
+/**addon
 .connect, .credentials, .reconnect {
 background-color: #6e999d;
 background-image: url("../img/moodle.png"), url("../img/bg_2.png");
@@ -2977,7 +2977,7 @@ background-size: 200px auto, 100%;
 padding-top: 65px;
 scroll-content: false;}
 .connect .list-inset, .credentials .list-inset, .reconnect .list-inset {
-/*background-color: transparent;*/
+/*background-color: transparent;
 background-color: rgba(171, 172, 175, 0.4);}
 .connect .item, .credentials .item, .reconnect .item {
 background-color: rgba(255, 255, 255, 0.4);
@@ -3008,7 +3008,7 @@ color: #FAFAFA; }
 .tabs .tab-item {
 color: #212630; }
 a.item.item-avatar .item-heading, a.item.item-media .item-heading, a.item.item-media h2, a.item.item-media .item-heading {
-color: #212630; }
+color: #212630; }*/
 
 /**
  * Resets
