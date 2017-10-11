@@ -10511,7 +10511,7 @@ a.button {
  * Variables
  */
  
-/**addon*/
+/**addon/
 .connect, .credentials, .reconnect {
 background-color: #6e999d;
 background-image: url("../img/moodle.png"), url("../img/bg_2.png");
@@ -10521,7 +10521,7 @@ background-size: 200px auto, 100%;
 padding-top: 65px;
 scroll-content: false;}
 .connect .list-inset, .credentials .list-inset, .reconnect .list-inset {
-/*background-color: transparent;*/
+/*background-color: transparent;/
 background-color: rgba(171, 172, 175, 0.4);}
 .connect .item, .credentials .item, .reconnect .item {
 background-color: rgba(255, 255, 255, 0.4);
@@ -10556,12 +10556,12 @@ color: #212630; }
  
 /**
  * App Branding
- /
+ */
 .mm-bglogo {
-  background-color: #ff5c00;
-  /* Change this to add a bg image or change color /
-  background: -webkit-radial-gradient(#ff7600, #ff5c00);
-  background: radial-gradient(#ff7600, #ff5c00);
+  background-color: #bababa;
+  /* Change this to add a bg image or change color */
+  background: -webkit-radial-gradient(#bababa, #adadad);
+  background: radial-gradient(#bababa, #adadad);
   background-repeat: no-repeat;
   background-position: center center;
   position: absolute;
@@ -10611,21 +10611,21 @@ a.button {
 
 .bar-content {
   border-color: transparent;
-  background-color: #f98012;
+  background-color: #bababa;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff; }
   .bar-content .title {
     color: #ffffff; }
   .bar-content .button {
     border-color: transparent;
-    background-color: #f98012;
+    background-color: #bababa;
     color: #ffffff; }
     .bar-content .button:hover {
       color: #ffffff;
       text-decoration: none; }
     .bar-content .button.active, .bar-content .button.activated {
       border-color: transparent;
-      background-color: #f98012; }
+      background-color: #bababa; }
     .bar-content .button.button-clear {
       border-color: transparent;
       background: none;
