@@ -10558,10 +10558,10 @@ color: #212630; }
  * App Branding
  */
 .mm-bglogo {
-  background-color: #bababa;
+  background-color: #00ccff;
   /* Change this to add a bg image or change color */
-  background: -webkit-radial-gradient(#bababa, #adadad);
-  background: radial-gradient(#bababa, #adadad);
+  background: -webkit-radial-gradient(#00ccff, #adadad);
+  background: radial-gradient(#00ccff, #adadad);
   background-repeat: no-repeat;
   background-position: center center;
   position: absolute;
@@ -10611,21 +10611,21 @@ a.button {
 
 .bar-content {
   border-color: transparent;
-  background-color: #bababa;
+  background-color: #00ccff;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff; }
   .bar-content .title {
     color: #ffffff; }
   .bar-content .button {
     border-color: transparent;
-    background-color: #bababa;
+    background-color: #00ccff;
     color: #ffffff; }
     .bar-content .button:hover {
       color: #ffffff;
       text-decoration: none; }
     .bar-content .button.active, .bar-content .button.activated {
       border-color: transparent;
-      background-color: #bababa; }
+      background-color: #00ccff; }
     .bar-content .button.button-clear {
       border-color: transparent;
       background: none;
@@ -10796,8 +10796,8 @@ p.item-text-wrap {
     opacity: 0.6; }
   .mm-tabs-color .tab-item.tab-item-active, .mm-tabs-color .tab-item.active, .mm-tabs-color .tab-item.activated {
     margin-top: -2px;
-    color: #f98012;
-    border: 0 solid #f98012;
+    color: #00ccff;
+    border: 0 solid #00ccff;
     border-top-width: 2px; }
     .mm-tabs-color .tab-item.tab-item-active .badge, .mm-tabs-color .tab-item.tab-item-active .mma-messages-date span, .mma-messages-date .mm-tabs-color .tab-item.tab-item-active span, .mm-tabs-color .tab-item.tab-item-active
     .mma-messages-unreadfrom span,
@@ -10817,8 +10817,8 @@ p.item-text-wrap {
   .mma-messages-unreadfrom .mm-tabs-color .tab-item span, .mm-tabs-color .tab-item .mma-chat-notice span, .mma-chat-notice .mm-tabs-color .tab-item span {
     opacity: 0.6; }
   .mm-tabs-color .tab-item.tab-item-active, .mm-tabs-color .tab-item.active, .mm-tabs-color .tab-item.activated {
-    color: #f98012;
-    border: 0 solid #f98012; }
+    color: #00ccff;
+    border: 0 solid #00ccff; }
     .mm-tabs-color .tab-item.tab-item-active .badge, .mm-tabs-color .tab-item.tab-item-active .mma-messages-date span, .mma-messages-date .mm-tabs-color .tab-item.tab-item-active span, .mm-tabs-color .tab-item.tab-item-active
     .mma-messages-unreadfrom span,
     .mma-messages-unreadfrom .mm-tabs-color .tab-item.tab-item-active span, .mm-tabs-color .tab-item.tab-item-active .mma-chat-notice span, .mma-chat-notice .mm-tabs-color .tab-item.tab-item-active span, .mm-tabs-color .tab-item.active .badge, .mm-tabs-color .tab-item.active .mma-messages-date span, .mma-messages-date .mm-tabs-color .tab-item.active span, .mm-tabs-color .tab-item.active
@@ -10848,7 +10848,7 @@ p.item-text-wrap {
 
 .mm-menu-selected:not(.button), .mm-split-item-selected:not(.button), .item.mma-mod-lesson-selected:not(.button), .mm-grades-table .mma-mod-lesson-selected.itemcenter:not(.button) {
   background-color: #f5f5f5;
-  border-left: 5px solid #fa9b44;
+  border-left: 5px solid #00ccff;
   padding-left: 12px; }
   .mm-menu-selected:not(.button).item-avatar, .mm-menu-selected.item-media:not(.button), .item-media.mm-split-item-selected:not(.button), .item-media.item.mma-mod-lesson-selected:not(.button), .mm-grades-table .item-media.mma-mod-lesson-selected.itemcenter:not(.button), .mm-menu-selected.item-avatar-center:not(.button), .item-avatar-center.mm-split-item-selected:not(.button), .item-avatar-center.item.mma-mod-lesson-selected:not(.button), .mm-grades-table .item-avatar-center.mma-mod-lesson-selected.itemcenter:not(.button), .mm-split-item-selected:not(.button).item-avatar, .mm-split-item-selected.item-progress:not(.button), .mm-menu-selected.item-progress:not(.button), .item-progress.item.mma-mod-lesson-selected:not(.button), .mm-grades-table .item-progress.mma-mod-lesson-selected.itemcenter:not(.button), .item.mma-mod-lesson-selected:not(.button).item-avatar, .mm-grades-table .mma-mod-lesson-selected.itemcenter:not(.button).item-avatar, .mm-menu-selected:not(.button).item-avatar-left, .mm-split-item-selected:not(.button).item-avatar-left, .item.mma-mod-lesson-selected:not(.button).item-avatar-left, .mm-grades-table .mma-mod-lesson-selected.itemcenter:not(.button).item-avatar-left {
     padding-left: 68px; }
