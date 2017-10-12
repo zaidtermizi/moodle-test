@@ -10543,7 +10543,7 @@ text-decoration: none; }
 mm-format-text a:hover {
 text-decoration: underline; }
 mm-format-text .button.activated a {
-color: #fff; }
+color: #000000; }
 .bar-header {
 background-color : #275a68;
 box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1); }
