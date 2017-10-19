@@ -1,7 +1,7 @@
 {
     "app_id" : "com.moodle.moodlemobiletest",
-    "appname": "Moodle Mobiletest",
-    "desktopappname": "Moodle Desktoptest",
+    "appname": "Sunago Mobile Test",
+    "desktopappname": "Sunago Desktop Test",
     "versioncode" : "2014",
     "versionname" : "1.1",
     "cache_expiration_time" : 300000,

@@ -5,10 +5,10 @@
         id        = "com.moodle.moodlemobiletest"
         versionCode = "2014"
         version   = "1.1">
-    <name>Moodle Mobiletest</name>
+    <name>Sunago Mobile Test</name>
 
     <description>
-        Moodle Mobiletest official app
+        Sunago Mobile Test official app
     </description>
 
     <author href="https://lms.sunagolearn.com/" email="info@ictinteractive.com">
