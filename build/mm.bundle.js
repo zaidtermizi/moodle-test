@@ -11574,7 +11574,7 @@ angular.module('mm.core.login', [])
         templateUrl: 'core/components/login/templates/site.html',
         controller: 'mmLoginSiteCtrl',
 		onEnter:function($state){
-			$state.go('mm_login.credentials',{siteurl:'https://lms.english.com.my'});//direct connection to moodle
+			$state.go('mm_login.credentials',{siteurl:'https://lms.sunagolearn.com'});//direct connection to moodle
 		}
     })
     .state('mm_login.credentials', {
