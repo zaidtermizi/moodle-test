@@ -27866,7 +27866,7 @@ angular.module('mm.addons.calendar')
     return self;
 }]);
 
-angular.module('mm.addons.calendar')
+/*angular.module('mm.addons.calendar')
 .factory('$mmaCalendarHandlers', ["$log", "$mmaCalendar", function($log, $mmaCalendar) {
     $log = $log.getInstance('$mmaCalendarHandlers');
     var self = {};
@@ -27886,7 +27886,7 @@ angular.module('mm.addons.calendar')
         return self;
     };
     return self;
-}]);
+}]);*/
 
 angular.module('mm.addons.competency')
 .controller('mmaCompetenciesListCtrl', ["$scope", "$mmaCompetency", "$mmUtil", "$stateParams", "$state", "$ionicPlatform", "$q", "$translate", "$mmaCompetencyHelper", function($scope, $mmaCompetency, $mmUtil, $stateParams, $state, $ionicPlatform, $q,
